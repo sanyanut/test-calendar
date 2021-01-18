@@ -10,4 +10,4 @@ Just a simple calendar
 ```npm run start```
 
 
-Open http://localhost:8080/
+Open http://localhost:8080/ :rocket:
